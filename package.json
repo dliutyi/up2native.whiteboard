@@ -7,5 +7,7 @@
         "konva": "^3.4.1",
         "socket.io": "^2.2.0"
     },
-    "start": "node server.js"
+    "scripts": {
+        "start": "node server.js"
+    }
 }
