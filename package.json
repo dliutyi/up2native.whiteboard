@@ -1,0 +1,10 @@
+{
+    "name": "whiteboard",
+    "version": "0.0.1",
+    "description": "whiteboard app",
+    "dependencies": {
+        "express": "^4.17.1",
+        "konva": "^3.4.1",
+        "socket.io": "^2.2.0"
+    }
+}
